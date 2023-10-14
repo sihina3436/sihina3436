@@ -2,6 +2,12 @@
 
 # Welcome to Sihina Nimnada's GitHub Profile
 
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="">Sihina</a></b>
+        </samp>
+</h3>
+
 <!--
 **sihina3436/sihina3436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
