@@ -8,6 +8,10 @@
         </samp>
 </h3>
 
+<p align="center"> 
+     Undergraduate Bachelor of Information Communication Technology<b>at University Of Ruhuna</b>
+</p>
+
 <!--
 **sihina3436/sihina3436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
