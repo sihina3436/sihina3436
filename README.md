@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# Welcome to Sihina Nimnada's GitHub Profile
+
 <!--
 **sihina3436/sihina3436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
