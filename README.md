@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center"> 
-     Undergraduate Bachelor of Information Communication Technology<b>at University Of Ruhuna</b>
+     Undergraduate Bachelor of Information Communication Technology <b>at University Of Ruhuna</b>
 </p>
 
 <!--
