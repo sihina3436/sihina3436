@@ -1,16 +1,10 @@
-## <h1 align="center"> Hi there 👋</h1>
+# Hi there 👋
 
-## <h1 align="center">Welcome to Sihina Nimnada's GitHub Profile</h1>
+## Welcome to Sihina Nimnada's GitHub Profile
 
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Sihina Nimnada</a></b>
-        </samp>
-</h3>
+### Hey there, I am [Sihina Nimnada](sihina3436)
 
-<p align="center"> 
-     Undergraduate Bachelor of Information Communication Technology <b>at University Of Ruhuna</b>
-</p>
+I'm an Undergraduate Bachelor of Information Communication Technology at the University of Ruhuna.
 
 <!--
 **sihina3436/sihina3436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
