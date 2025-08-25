@@ -1,18 +1,67 @@
-# 💫 About Me:
-Hi there 👋, I'm Sihina Nimnada<br>🚀 About Me<br><br>🎓 Level 3 Semester 2 Undergraduate Student<br><br>💻 Developer building E-commerce solutions, Web applications, and Flutter mobile apps<br><br>🤝 Strong teamwork and communication skills<br><br>🌱 Eager to explore DevOps (CI/CD), AI, and advanced React concepts<br><br>🔭 I'm currently working on<br><br>Building scalable E-commerce platforms using MERN stack<br><br>Developing Flutter mobile apps for real-world use cases<br><br>🤝 I'm looking to collaborate on<br><br>Open-source projects related to MERN, Flutter, or DevOps<br><br>Innovative AI-powered web or mobile applications<br><br>🆘 I'm looking for help with<br><br>Setting up DevOps pipelines and CI/CD automation<br><br>Integrating AI/ML solutions into web and mobile apps<br><br>🌱 I'm currently learning<br><br>DevOps tools like Docker, Kubernetes, and GitHub Actions<br><br>React advanced concepts (Hooks, Context API, Performance Optimization)<br><br>AI basics for integrating with apps<br><br>💬 Ask me about<br><br>MERN stack development<br><br>Flutter app development<br><br>Building responsive and optimized applications<br><br>⚡ Fun fact<br><br>I debug my code faster with coffee ☕ and good music 🎧.
+# 💫 About Me  
+Hi there 👋, I'm **Sihina Nimnada**  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sihina-nimnada-974b91256) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nimnadasihina) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31098345) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sihina3436&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sihina3436&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sihina3436&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🎓 Level 3 Semester 2 Undergraduate Student  
+💻 Passionate developer building **E-commerce solutions**, **Web applications**, and **Flutter mobile apps**  
+🤝 Strong **teamwork** and **communication skills**  
+🌱 Exploring **DevOps (CI/CD)**, **AI**, and **advanced React concepts**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sihina3436&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 What I'm Working On  
+- Building scalable **E-commerce platforms** with the **MERN stack**  
+- Developing **Flutter mobile apps** for real-world use cases  
+
+## 🤝 Looking to Collaborate On  
+- **Open-source MERN or Flutter projects**  
+- Innovative **AI-powered applications**  
+- **DevOps automation** projects  
+
+## 🆘 Looking for Help With  
+- **CI/CD pipelines** and **DevOps workflows**  
+- Integrating **AI/ML** into web or mobile applications  
+
+## 🌱 Currently Learning  
+- **Docker, Kubernetes, and GitHub Actions**  
+- **React performance optimization and advanced hooks**  
+- **AI integration basics**  
+
+## 💬 Ask Me About  
+- **MERN stack development**  
+- **Flutter mobile app development**  
+- **Building scalable and responsive applications**  
+
+## ⚡ Fun Fact  
+I debug code faster with **coffee ☕** and **good music 🎧**.  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sihina-nimnada-974b91256)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nimnadasihina)  
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31098345)  
+
+---
+
+## 💻 Tech Stack  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=sihina3436&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sihina3436&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sihina3436&theme=dark&hide_border=false&layout=compact)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sihina3436&icon=0&color=0)](https://visitcount.itsvg.in)
