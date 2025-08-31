@@ -40,9 +40,4 @@
 
 ---
 
-### 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sihina3436&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
-  <img src="https://visitcount.itsvg.in/api?id=sihina3436&icon=5&color=6" alt="visit count"/>
-</p>
 
