@@ -1,61 +1,28 @@
-# 💫 About Me  
-Hi there 👋, I'm **Sihina Nimnada**  
+[![MasterHead](https://miro.medium.com/v2/resize:fit:786/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)]
+<h1 align="center">Hi 👋, I'm Sihina Nimnada</h1>
+<h3 align="center">A passionate Software developer from Sri Lanka</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif">
 
-🎓 Level 3 Semester 2 Undergraduate Student  
-💻 Passionate developer building **E-commerce solutions**, **Web applications**, and **Flutter mobile apps**  
-🤝 Strong **teamwork** and **communication skills**  
-🌱 Exploring **DevOps (CI/CD)**, **AI**, and **advanced React concepts**  
 
----
 
-## 🔭 What I'm Working On  
-- Building scalable **E-commerce platforms** with the **MERN stack**  
-- Developing **Flutter mobile apps** for real-world use cases  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sihina3436&label=Profile%20views&color=0e75b6&style=flat" alt="sihina3436" /> </p>
 
-## 🤝 Looking to Collaborate On  
-- **Open-source MERN or Flutter projects**  
-- Innovative **AI-powered applications**  
-- **DevOps automation** projects  
+<p align="left"> <a href="https://twitter.com/sihina2276" target="blank"><img src="https://img.shields.io/twitter/follow/sihina2276?logo=twitter&style=for-the-badge" alt="sihina2276" /></a> </p>
 
-## 🆘 Looking for Help With  
-- **CI/CD pipelines** and **DevOps workflows**  
-- Integrating **AI/ML** into web or mobile applications  
+- 🌱 I’m currently learning **React & React Native**
 
-## 🌱 Currently Learning  
-- **Docker, Kubernetes, and GitHub Actions**  
-- **React performance optimization and advanced hooks**  
-- **AI integration basics**  
+- 💬 Ask me about **Android & MERN**
 
-## 💬 Ask Me About  
-- **MERN stack development**  
-- **Flutter mobile app development**  
-- **Building scalable and responsive applications**  
+- 📫 How to reach me **nimnadasihina@gmail.com**
 
-## ⚡ Fun Fact  
-I debug code faster with **coffee ☕** and **good music 🎧**.  
+- ⚡ Fun fact **I Think I am Funny**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sihina2276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sihina2276" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sihina-nimnada-974b91256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sihina-nimnada-974b91256/" height="30" width="40" /></a>
+</p>
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sihina-nimnada-974b91256)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nimnadasihina)  
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31098345)  
-
----
-
-## 💻 Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge)
-
----
 
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=sihina3436&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
