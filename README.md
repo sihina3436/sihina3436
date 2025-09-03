@@ -7,7 +7,7 @@
 <h3 align="center">
   💻 Passionate Software Developer from <b>Sri Lanka</b> 🌍
 </h3>
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" />
+
 ---
 ## 🚀 About Me  
 - 🌱 Exploring **React & React Native**  
