@@ -9,24 +9,27 @@
 </h3>
 
 ---
+
 ## 🚀 About Me  
-- 🌱 Exploring **React & React Native**  
-- 💬 Ask me about **Android & MERN Stack**  
-- 📫 Reach me at **nimnadasihina@gmail.com**  
-- ⚡ Fun fact: *I think I’m funny 😅*  
+<p align="center">
+  🌱 Currently exploring <b>React & React Native</b> <br>
+  💬 Ask me about <b>Android & MERN Stack</b> <br>
+  📫 Reach me at: <a href="mailto:nimnadasihina@gmail.com"><b>nimnadasihina@gmail.com</b></a> <br>
+  ⚡ Fun fact: <i>I think I’m funny 😅</i>
+</p>
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://twitter.com/sihina2276" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/sihina-nimnada-974b91256/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
   <a href="mailto:nimnadasihina@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
   </a>
 </p>
 
@@ -61,7 +64,7 @@
 ## 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sihina3436&theme=radical&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihina3436&theme=radical&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihina3436&theme=tokyonight&hide_border=false" height="160" alt="Streak Stats"/>
 </p>
 
 <p align="center">
@@ -70,13 +73,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihina3436&theme=radical&hide_border=true&layout=compact" height="160" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 Achievements & Badges  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sihina3436&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5" />
 </p>
 
 ---
