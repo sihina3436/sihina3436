@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" width="100%" alt="MasterHead"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif" width="100%" alt="MasterHead"/>
 
 <h1 align="center">
   Hi 👋, I'm <span style="color:#4fc3f7;">Sihina Nimnada</span>
@@ -7,11 +7,8 @@
 <h3 align="center">
   💻 Passionate Software Developer from <b>Sri Lanka</b> 🌍
 </h3>
-
----
-
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" />
-
+---
 ## 🚀 About Me  
 - 🌱 Exploring **React & React Native**  
 - 💬 Ask me about **Android & MERN Stack**  
