@@ -1,5 +1,7 @@
 <!-- Banner -->
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif" width="100%" alt="MasterHead"/>
+<p align="center">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif"  width="50%" alt="MasterHead"/>
+</p>
 
 <h1 align="center">
   Hi 👋, I'm <span style="color:#4fc3f7;">Sihina Nimnada</span>
@@ -75,9 +77,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihina3436&theme=radical&hide_border=true&layout=compact" height="160" alt="Top Languages" />
 </p>
 
----
 
-## ⚡ Fun Animation  
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" alt="Dino Game Animation" />
 </p>
