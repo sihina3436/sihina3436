@@ -1,6 +1,6 @@
 <!-- Modern GitHub Profile README for Sihina Nimnada -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#4fc3f7;">Sihina Nimnada</span></h1>
-<h3 align="center">💻 Passionate Software Developer from 🇱🇰 Sri Lanka</h3>
+<h1 align="center">I'm <span style="color:#4fc3f7;">Sihina Nimnada</span></h1>
+<h3 align="center">Passionate Software Developer from 🇱🇰 Sri Lanka</h3>
 
 <p align="center">
   <a href="https://github.com/sihina3436">
@@ -11,11 +11,11 @@
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently diving deeper into **Spring Boot & Cloud Services**  
-- 💙 Love working with **Java**, **Spring Boot**, and **React.js**  
-- 💻 Experienced in **MERN Stack Web Applications**  
-- 📧 Reach me: **[nimnadasihina@gmail.com](mailto:nimnadasihina@gmail.com)**  
-- ⚡ Fun fact: *I debug faster with music 🎧*  
+- Currently diving deeper into **Spring Boot & Cloud Services**  
+- Love working with **Java**, **Spring Boot**, and **React.js**  
+- Experienced in **MERN Stack Web Applications**  
+- Reach me: **[nimnadasihina@gmail.com](mailto:nimnadasihina@gmail.com)**  
+- Fun fact: *I debug faster with music*  
 
 ---
 
