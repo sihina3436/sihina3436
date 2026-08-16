@@ -31,27 +31,27 @@
 
 ## 🧠 Tech Stack  
 
-### 💬 Languages  
+### Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,c" height="50" />
 </p>
 
-### 🎨 Frontend  
+### Frontend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind" height="50" />
 </p>
 
-### ⚙️ Backend  
+### Backend  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="50" />
 </p>
 
-### 🗄️ Databases  
+### Databases  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase" height="50" />
 </p>
 
-### 🧰 Tools & Platforms  
+### Tools & Platforms  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma,aws" height="50" />
 </p>
