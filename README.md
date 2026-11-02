@@ -1,80 +1,49 @@
-<!-- Modern GitHub Profile README for Sihina Nimnada -->
-<h1 align="center">I'm <span style="color:#4fc3f7;">Sihina Nimnada</span></h1>
-<h3 align="center">Passionate Software Developer from 🇱🇰 Sri Lanka</h3>
+<div align="left">
 
-<p align="center">
-  <a href="https://github.com/sihina3436">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=Software+Developer;MERN+Stack+Developer;Spring+Boot+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
-  </a>
-</p>
+# Sihina Nimnada
 
----
+### Software Developer · Java / Spring Boot / React
 
-## 🚀 About Me  
-- Currently diving deeper into **Spring Boot & Cloud Services**  
-- Love working with **Java**, **Spring Boot**, and **React.js**  
-- Experienced in **MERN Stack Web Applications**  
-- Reach me: **[nimnadasihina@gmail.com](mailto:nimnadasihina@gmail.com)**  
-- Fun fact: *I debug faster with music*  
+Building full-stack applications. Deepening my work in backend engineering and cloud services.
+
+[LinkedIn](https://www.linkedin.com/in/sihina-nimnada-974b91256/) &nbsp; / &nbsp; [Email](mailto:nimnadasihina@gmail.com) &nbsp; / &nbsp; [GitHub](https://github.com/sihina3436) &nbsp; / &nbsp; [X](https://twitter.com/sihina2276)
+
+Sri Lanka
+
+</div>
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://twitter.com/sihina2276"><img src="https://skillicons.dev/icons?i=twitter" height="45" /></a>
-  <a href="https://www.linkedin.com/in/sihina-nimnada-974b91256/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-  <a href="mailto:nimnadasihina@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
-  <a href="https://github.com/sihina3436"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
-</p>
+## Profile
+
+I work with **Java, Spring Boot, and React**, with experience building web applications using the **MERN stack**. I enjoy connecting backend logic with useful interfaces and understanding how the pieces of an application fit together.
+
+My current focus is strengthening my Spring Boot skills and learning more about cloud services, from application development through deployment.
+
+## Technical toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| Primary focus | Java · Spring Boot · React |
+| Languages | JavaScript · TypeScript · Java · C |
+| Frontend | HTML · CSS · React · Redux · Tailwind CSS |
+| Backend | Spring Boot · Node.js · Express |
+| Data | MySQL · PostgreSQL · MongoDB · Supabase |
+| Development tools | Git · GitHub · Postman · VS Code |
+| Design & cloud | Figma · AWS |
+
+## Engineering interests
+
+- **Backend development** — application structure, API design, and data access with Java and Spring Boot.
+- **Frontend development** — reusable React components, state management, and clear user interactions.
+- **Cloud services** — understanding how applications are deployed, configured, and operated.
+
+## What I value
+
+Readable code, practical design decisions, and software that is easy to understand and improve. I learn by building, investigating problems, and revisiting my decisions as my understanding grows.
 
 ---
 
-## 🧠 Tech Stack  
+**Let's connect.** Open to conversations about software engineering, Java, React, and building useful applications.
 
-### Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,c" height="50" />
-</p>
-
-### Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind" height="50" />
-</p>
-
-### Backend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="50" />
-</p>
-
-### Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase" height="50" />
-</p>
-
-### Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma,aws" height="50" />
-</p>
-
----
-
-## GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sihina3436&theme=radical&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=sihina3436&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sihina3436&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihina3436&theme=radical&hide_border=true&layout=compact" height="160" alt="Top Languages" />
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" alt="Dino Game Animation" />
-  <br/>
-  <sub>Keep building... even when the internet is down 🚀</sub>
-</p>
+[nimnadasihina@gmail.com](mailto:nimnadasihina@gmail.com)
